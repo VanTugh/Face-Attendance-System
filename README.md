@@ -1,10 +1,4 @@
-Dưới đây là mẫu file `README.md` chuyên nghiệp, đầy đủ thông tin kỹ thuật, hướng dẫn cài đặt và giới thiệu tính năng cho dự án của bạn.
 
-Bạn hãy tạo một file tên là **`README.md`** (viết hoa) nằm ở thư mục gốc (`Face-Attendance-System`), sau đó copy toàn bộ nội dung dưới đây vào:
-
----
-
-```markdown
 # 📸 Face Attendance System (Hệ thống Điểm danh Khuôn mặt)
 
 > Hệ thống điểm danh tự động sử dụng công nghệ nhận diện khuôn mặt AI, tích hợp trang quản trị (Admin Dashboard) và phân quyền người dùng.
