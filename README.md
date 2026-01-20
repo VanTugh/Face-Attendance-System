@@ -9,10 +9,10 @@
 ![NodeJS](https://img.shields.io/badge/backend-NodeJS-green)
 ![Python](https://img.shields.io/badge/AI-Python-yellow)
 
-## 📋 Giới thiệu
+## Giới thiệu
 Dự án này là một giải pháp Full-stack nhằm giải quyết bài toán chấm công thủ công. Hệ thống cho phép nhân viên check-in bằng khuôn mặt thông qua Webcam và tự động lưu lịch sử. Quản trị viên có thể quản lý danh sách nhân viên và xem báo cáo.
 
-### ✨ Tính năng chính
+### Tính năng chính
 * **Điểm danh AI:** Nhận diện khuôn mặt thời gian thực, độ chính xác cao.
 * **Phân quyền (RBAC):**
     * **Admin:** Quản lý nhân viên (Thêm/Sửa/Xóa), xem lịch sử chấm công toàn bộ.
@@ -28,7 +28,7 @@ Dự án này là một giải pháp Full-stack nhằm giải quyết bài toán
 
 ---
 
-## 🛠 Công nghệ sử dụng
+## Công nghệ sử dụng
 
 ### 1. Frontend (Client)
 * **React (Vite):** Xây dựng giao diện người dùng.
@@ -49,7 +49,7 @@ Dự án này là một giải pháp Full-stack nhằm giải quyết bài toán
 
 ---
 
-## 📂 Cấu trúc dự án
+## Cấu trúc dự án
 
 ```bash
 Face-Attendance-System/
@@ -63,7 +63,7 @@ Face-Attendance-System/
 
 ---
 
-## 🚀 Cài đặt và Chạy (Sử dụng Docker - Khuyên dùng)
+## Cài đặt và Chạy (Sử dụng Docker - Khuyên dùng)
 
 Chỉ cần 1 câu lệnh để chạy toàn bộ hệ thống (Database, Backend, Frontend, AI).
 
@@ -99,7 +99,7 @@ docker-compose up --build
 
 ---
 
-## 🔧 Cài đặt thủ công (Dành cho Dev)
+## Cài đặt thủ công (Dành cho Dev)
 
 Nếu bạn muốn chạy từng phần riêng lẻ để sửa code:
 
@@ -138,7 +138,7 @@ npm run dev
 
 ---
 
-## 📸 Hình ảnh demo
+## Hình ảnh demo
 
 
 
@@ -166,9 +166,9 @@ Nếu bạn sử dụng script tạo dữ liệu mẫu, tài khoản Admin mặc
 
 ---
 
-## 🤝 Đóng góp
+##  Đóng góp
 
 Mọi đóng góp đều được hoan nghênh. Vui lòng mở Pull Request hoặc tạo Issue nếu bạn tìm thấy lỗi.
 
-## 📝 License
+## License
 
