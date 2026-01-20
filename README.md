@@ -99,7 +99,7 @@ docker-compose up --build
 
 ---
 
-## Cài đặt thủ công (Dành cho Dev)
+## Cài đặt thủ công
 
 Nếu bạn muốn chạy từng phần riêng lẻ để sửa code:
 
@@ -157,7 +157,7 @@ npm run dev
 
 ---
 
-## 🛡 Tài khoản mặc định (Seed Data)
+## Tài khoản mặc định (Seed Data)
 
 Nếu bạn sử dụng script tạo dữ liệu mẫu, tài khoản Admin mặc định là:
 
