@@ -1,5 +1,5 @@
 
-# 📸 Face Attendance System (Hệ thống Điểm danh Khuôn mặt)
+# Face Attendance System (Hệ thống Điểm danh Khuôn mặt)
 
 > Hệ thống điểm danh tự động sử dụng công nghệ nhận diện khuôn mặt AI, tích hợp trang quản trị (Admin Dashboard) và phân quyền người dùng.
 
